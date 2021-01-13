@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Modak&family=Roboto+Slab:wght@100;400&display=swap');
+
+body{
+    background-color: black;
+}
+.main{
+    text-align: center;
+    margin: 0 auto;
+    width: 780px;
+    height: 380px;
+    background-color: black;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    border: 5px solid rgb(233, 233, 89);
+}
+
+.heading{
+    font-size: 56px;
+    color:rgb(233, 233, 89);
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.icon{
+    font-size: 56px;
+    color: white;
+    color:rgb(233, 233, 89);
+}
+
+h1{
+    display: inline-block;
+    width: 180px;
+    margin-left: 5px;
+    font-family: 'Roboto Slab', serif;
+}
+
+button{
+    width: 180px;
+    font-size: 26px;
+    color: white;
+    margin-left: 5px;
+    padding: 8px;
+    border-radius: 8px 8px 8px 8px;
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+    border: 2px solid rgb(233, 233, 89);
+}
